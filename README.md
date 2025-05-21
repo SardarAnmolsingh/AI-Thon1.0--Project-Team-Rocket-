@@ -92,7 +92,9 @@ Robustness: Model performs well despite changes in lighting, occlusions, and per
 Include sample images or metrics here to showcase model performance.
 
 🤝 Contributors
+
 Anmol Singh - GitHub
+
 Rishikesh-Jadhav  
 Maazsyedm    
 rebekah-bogdanoff
