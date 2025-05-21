@@ -94,10 +94,8 @@ Include sample images or metrics here to showcase model performance.
 🤝 Contributors
 
 Anmol Singh - GitHub
-
-Rishikesh-Jadhav  
-Maazsyedm    
-rebekah-bogdanoff
+Ashmeet Singh
+Gurvansh Singh
 
 
 📄 License
